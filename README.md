@@ -14,8 +14,6 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Open source tools
 
-+ [Copulas](https://github.com/sdv-dev/Copulas): a Python library for modeling multivariate distributions and sampling from them using copula functions.
-+ [CTGAN](https://github.com/sdv-dev/CTGAN): SDV’s collection of deep learning-based synthetic data generators for single table data.
 + [DataGene](https://github.com/firmai/datagene): a tool to train, test, and validate datasets, detect and compare dataset similarity between real and synthetic datasets.
 + [DoppelGANger](https://github.com/fjxmlzn/DoppelGANger): a synthetic data generation framework based on generative adversarial networks (GANs).
 + [DP_WGAN-UCLANESL](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge): this solution trains a Wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. 
@@ -30,12 +28,16 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Synner](https://github.com/huda-lab/synner): an open source tool to generate real-looking synthetic data by visually specifying the properties of the dataset.
 + [Synth](https://www.getsynth.com/): an open source data-as-code tool that provides a simple CLI workflow for generating consistent data in a scalable way. 
 + [Synthea](https://synthetichealth.github.io/synthea/): an open source synthetic patient generator that models the medical history of synthetic patients.
-+ [Synthetic data vault (SDV)](https://sdv.dev/): one of the first open source synthetic data solutions, SDV provides tools for generating synthetic data for tabular, relational, and time series data.  
-+ [TGAN](https://github.com/sdv-dev/TGAN): generative adversarial training for generating synthetic tabular data.
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
 + [Twinify](https://github.com/DPBayes/twinify): a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
 + [YData](https://github.com/ydataai/ydata-synthetic): synthetic structured data generator by YData, a commercial vendor.
 
+# Open source with commercial license
+
++ [Synthetic data vault (SDV)](https://sdv.dev/): one of the first open source synthetic data solutions, SDV provides tools for generating synthetic data for tabular, relational, and time series data.  
++ [Copulas](https://github.com/sdv-dev/Copulas): a Python library for modeling multivariate distributions and sampling from them using copula functions.
++ [CTGAN](https://github.com/sdv-dev/CTGAN): SDV’s collection of deep learning-based synthetic data generators for single table data.
++ [TGAN](https://github.com/sdv-dev/TGAN): generative adversarial training for generating synthetic tabular data.
 
 # Commercial solutions
 
