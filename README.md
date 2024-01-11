@@ -20,7 +20,6 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [DPSyn](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn): an algorithm for synthesizing microdata while satisfying differential privacy.
 + [Faker](https://github.com/joke2k/faker): a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
 + [Generative adversarial nets for synthetic time series data](https://github.com/stefan-jansen/synthetic-data-for-finance): a repository that shows how to create synthetic time-series data using generative adversarial networks (GANs).
-+ [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
 + [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator): a python tool that generates synthetic data based on user-specified causal relations among features in the data. 
 + [Plait.py](https://github.com/plaitpy/plaitpy): a program for generating fake data from composable yaml templates.
 + [Pydbgen](https://github.com/tirthajyoti/pydbgen): a Python package that generates a random database table based on the user's choice of data types. 
@@ -34,6 +33,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Open source with commercial license
 
++ [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
 + [Synthetic data vault (SDV)](https://sdv.dev/): one of the first open source synthetic data solutions, SDV provides tools for generating synthetic data for tabular, relational, and time series data.  
 + [Copulas](https://github.com/sdv-dev/Copulas): a Python library for modeling multivariate distributions and sampling from them using copula functions.
 + [CTGAN](https://github.com/sdv-dev/CTGAN): SDV’s collection of deep learning-based synthetic data generators for single table data.
