@@ -39,6 +39,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Commercial solutions
 
++ [Aindo](https://www.aindo.com/): vendor of a privacy-preserving synthetic data solution for AI, data sharing, or product development.
 + [Betterdata](https://www.betterdata.ai/): vendor of a privacy-preserving synthetic data solution for AI, data sharing, or product development.
 + [Datomize](https://www.datomize.com/): vendor of a synthetic data solution for the development, training and testing of AI/ML models, and applications.
 + [Diveplane](https://diveplane.com/geminai/): vendor of Geminai, a solution to generate synthetic ‘twin’ datasets with the same statistical properties as the original data.
