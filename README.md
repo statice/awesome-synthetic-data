@@ -23,6 +23,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Faker](https://github.com/joke2k/faker): a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
 + [Generative adversarial nets for synthetic time series data](https://github.com/stefan-jansen/synthetic-data-for-finance): a repository that shows how to create synthetic time-series data using generative adversarial networks (GANs).
 + [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
++ [Kiln AI](https://getkiln.ai): interactive synthetic data generation tool. Supports realtime curation, human feedback, and fine-tuning.
 + [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator): a python tool that generates synthetic data based on user-specified causal relations among features in the data. 
 + [Plait.py](https://github.com/plaitpy/plaitpy): a program for generating fake data from composable yaml templates.
 + [Pydbgen](https://github.com/tirthajyoti/pydbgen): a Python package that generates a random database table based on the user's choice of data types. 
