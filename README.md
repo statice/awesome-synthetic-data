@@ -35,6 +35,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
 + [Twinify](https://github.com/DPBayes/twinify): a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
 + [YData](https://github.com/ydataai/ydata-synthetic): synthetic structured data generator by YData, a commercial vendor.
++ [smolmodels](https://github.com/plexe-ai/smolmodels): library for generating synthetic data and machine learning models from natural language.
 
 
 # Commercial solutions
