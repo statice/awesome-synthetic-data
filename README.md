@@ -35,6 +35,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
 + [Twinify](https://github.com/DPBayes/twinify): a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
 + [YData](https://github.com/ydataai/ydata-synthetic): synthetic structured data generator by YData, a commercial vendor.
++ [Neosync](https://github.com/nucleuscloud/neosync): A synthetic data and anonymization platform for structured and unstructured data
 
 
 # Commercial solutions
@@ -59,6 +60,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Syntho]([https://www.tonic.ai/](https://www.syntho.ai/)): vendor of AI software for generating synthetic data.
 + [Tonic](https://www.tonic.ai/): vendor of a synthetic data generator to mimic production data.
 + [Ydata](https://ydata.ai/): vendor of a synthesizer that mimics statistical information from real data and on new datasets without transforming the original data.
++ [Neosync](https://github.com/nucleuscloud/neosync): A synthetic data and anonymization platform for structured and unstructured data
 
 # Online communities
 
