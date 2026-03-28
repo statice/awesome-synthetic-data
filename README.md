@@ -67,3 +67,6 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [GenRocket Community](https://community.genrocket.com/) community from GenRocket to ask questions and exchange ideas around test data and synthetic data.
 + [Synthetic Data Vault Slack channel](https://sdv-space.slack.com/ssb/redirect): the Slack channel from the SDV team.
 
+
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation): "Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, constraints, and sklearn Pipeline integration."
