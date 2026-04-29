@@ -35,6 +35,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
 + [Twinify](https://github.com/DPBayes/twinify): a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
 + [YData](https://github.com/ydataai/ydata-synthetic): synthetic structured data generator by YData, a commercial vendor.
++ [Cinnamon](https://github.com/KI-AIM/Cinnamon) - Modular platform for data anonymization, synthetic data generation, risk assessment, and evaluation.
 
 
 # Commercial solutions
