@@ -21,6 +21,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [DP_WGAN-UCLANESL](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge): this solution trains a Wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. 
 + [DPSyn](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn): an algorithm for synthesizing microdata while satisfying differential privacy.
 + [Faker](https://github.com/joke2k/faker): a Python package that generates fake data (Note: this tool does not generate synthetic data but offers dummy data).
++ [eurofake](https://github.com/kakoullig-hue/eurofake): a Faker provider that generates valid, checksummed EU identifiers — IBANs (mod-97), VAT numbers and national IDs (ES/NL/FI) that pass real validation (like Faker, it offers dummy data rather than statistically synthetic data).
 + [Generative adversarial nets for synthetic time series data](https://github.com/stefan-jansen/synthetic-data-for-finance): a repository that shows how to create synthetic time-series data using generative adversarial networks (GANs).
 + [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
 + [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator): a python tool that generates synthetic data based on user-specified causal relations among features in the data. 
