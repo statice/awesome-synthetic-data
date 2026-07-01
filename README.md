@@ -17,6 +17,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Copulas](https://github.com/sdv-dev/Copulas): a Python library for modeling multivariate distributions and sampling from them using copula functions.
 + [CTGAN](https://github.com/sdv-dev/CTGAN): SDV’s collection of deep learning-based synthetic data generators for single table data.
 + [DataGene](https://github.com/firmai/datagene): a tool to train, test, and validate datasets, detect and compare dataset similarity between real and synthetic datasets.
++ [DATAMIMIC CE](https://github.com/rapiddweller/datamimic): an open-source, deterministic engine for model-driven synthetic data and PII pseudonymization; seed in, byte-identical output with a per-output provenance hash; Python-native with a built-in MCP server.
 + [DoppelGANger](https://github.com/fjxmlzn/DoppelGANger): a synthetic data generation framework based on generative adversarial networks (GANs).
 + [DP_WGAN-UCLANESL](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge): this solution trains a Wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. 
 + [DPSyn](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn): an algorithm for synthesizing microdata while satisfying differential privacy.
