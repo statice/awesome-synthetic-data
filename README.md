@@ -24,6 +24,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Generative adversarial nets for synthetic time series data](https://github.com/stefan-jansen/synthetic-data-for-finance): a repository that shows how to create synthetic time-series data using generative adversarial networks (GANs).
 + [Gretel.ai](https://gretel.ai/): commercial synthetic data vendor that offers open source functionality.
 + [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator): a python tool that generates synthetic data based on user-specified causal relations among features in the data. 
++ [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api): a Python/Java library that generates checksum-valid financial and identity test data — IBAN, Luhn-valid card numbers, TCKN, ISIN, BIC/SWIFT — via CLI, REST API, and JMeter plugin.
 + [Plait.py](https://github.com/plaitpy/plaitpy): a program for generating fake data from composable yaml templates.
 + [Pydbgen](https://github.com/tirthajyoti/pydbgen): a Python package that generates a random database table based on the user's choice of data types. 
 + [Smart noise synthesizer](https://smartnoise.org/): a differentially private open source synthesizer for tabular data.
