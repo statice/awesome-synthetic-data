@@ -26,6 +26,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [mirrorGen](https://github.com/DataResponsibly/MirrorDataGenerator): a python tool that generates synthetic data based on user-specified causal relations among features in the data. 
 + [Plait.py](https://github.com/plaitpy/plaitpy): a program for generating fake data from composable yaml templates.
 + [Pydbgen](https://github.com/tirthajyoti/pydbgen): a Python package that generates a random database table based on the user's choice of data types. 
++ [rand-engine](https://github.com/marcoaureliomenezes/rand_engine): a Python library that generates synthetic data from declarative specifications for pandas, files, streams, and Spark.
 + [Smart noise synthesizer](https://smartnoise.org/): a differentially private open source synthesizer for tabular data.
 + [Synner](https://github.com/huda-lab/synner): an open source tool to generate real-looking synthetic data by visually specifying the properties of the dataset.
 + [Synth](https://www.getsynth.com/): an open source data-as-code tool that provides a simple CLI workflow for generating consistent data in a scalable way. 
