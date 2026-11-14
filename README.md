@@ -35,6 +35,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Tofu](https://github.com/spiros/tofu): a Python library for generating synthetic UK Biobank data. 
 + [Twinify](https://github.com/DPBayes/twinify): a software package for privacy-preserving generation of a synthetic twin to a given sensitive data set.
 + [YData](https://github.com/ydataai/ydata-synthetic): synthetic structured data generator by YData, a commercial vendor.
++ [Maily](https://github.com/stormsia/maily): a Python/FastAPI self-hosted gateway for provisioning disposable email addresses and extracting verification payloads in test environments.
 
 
 # Commercial solutions
