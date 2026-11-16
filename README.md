@@ -39,6 +39,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 
 # Commercial solutions
 
++ [Adaption](https://adaptionlabs.ai/): vendor of Adaptive Data, a platform that generates model-ready datasets from scratch from a prompt (Invent), and adapts and optimizes existing data into model-ready datasets, including expanding, translating, or localizing rows.
 + [Betterdata](https://www.betterdata.ai/): vendor of a privacy-preserving synthetic data solution for AI, data sharing, or product development.
 + [Datomize](https://www.datomize.com/): vendor of a synthetic data solution for the development, training and testing of AI/ML models, and applications.
 + [Diveplane](https://diveplane.com/geminai/): vendor of Geminai, a solution to generate synthetic ‘twin’ datasets with the same statistical properties as the original data.
