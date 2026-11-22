@@ -54,6 +54,7 @@ Inspired by [Awesome Synthetic Data](https://github.com/gretelai/awesome-synthet
 + [Sogeti](https://www.sogeti.com/services/artificial-intelligence/artificial-data-amplifier/): vendor of Artificial Data Amplifier (ADA), a solution by the Sogeti Testing AI team that generates realistic data based on real data sets.
 + [Statice](https://www.statice.ai/): vendor of a software solution that generates privacy-preserving synthetic data that can be used as a drop-in replacement for an original dataset.
 + [Syndata AB](https://syndata.co/): vendor of a synthetic data generator to generate data sets that match the statistical attributes of real data but are entirely synthetic.
++ [synthetic cfo](https://syntheticcfo.com/): vendor of a synthetic ERP data platform for SAP ECC, SAP S/4HANA and Oracle Cloud, with labelled fraud schemes, innocent look-alikes and a ground-truth answer key.
 + [Synthesized](https://www.synthesized.io/): vendor of a DataOps platform enabling data sharing and collaboration across internal groups, remote teams, and external partners.
 + [Syntheticus](https://syntheticus.ai/): Swiss vendor of a Swiss platform dedicated to generating synthetic data.
 + [Syntho]([https://www.tonic.ai/](https://www.syntho.ai/)): vendor of AI software for generating synthetic data.
